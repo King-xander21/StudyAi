@@ -1,0 +1,15 @@
+# Dependencies (reinstall with: npm install)
+node_modules/
+
+# Supabase CLI local state
+supabase/.temp/
+.env
+.env.*
+
+# Scratch notes
+TEXT.txt
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
